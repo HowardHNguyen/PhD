@@ -1,0 +1,1 @@
+This project is for my PhD dissertation proposal, my disseration subject is Heart Failure Early Detection and Prediction by Traditional MLs and Neural Network-Based Models vs. Stacking Models, re-submitted on August of 2024.
